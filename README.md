@@ -1,4 +1,4 @@
-This project and README come from the [Tic-Tac-Toe tutorial on React Docs] (https://beta.reactjs.org/learn/tutorial-tic-tac-toe).
+This project and README come from the [Tic-Tac-Toe tutorial on React Docs](https://beta.reactjs.org/learn/tutorial-tic-tac-toe).
 
 --- 
 
