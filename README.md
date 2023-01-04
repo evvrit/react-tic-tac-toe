@@ -1,3 +1,7 @@
+This project and README come from the [Tic-Tac-Toe tutorial on React Docs] (https://beta.reactjs.org/learn/tutorial-tic-tac-toe).
+
+--- 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
